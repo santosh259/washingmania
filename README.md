@@ -1,0 +1,2 @@
+# washingmania
+A laundry website
